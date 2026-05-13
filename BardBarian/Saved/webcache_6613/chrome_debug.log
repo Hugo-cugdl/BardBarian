@@ -1,0 +1,2 @@
+[8999:8999:0512/235657.094101:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[9063:9063:0512/235705.969120:WARNING:frame_impl.cc(430)] SendProcessMessage sent to detached frame 5-1177B02BEB20636443003674FA0FF57D will be ignored
