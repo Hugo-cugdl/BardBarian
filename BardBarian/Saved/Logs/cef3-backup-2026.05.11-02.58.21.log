@@ -1,5 +1,0 @@
-[22864:19500:0510/205525.023:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[22864:19500:0510/205525.083:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[15244:7976:0510/205545.074:ERROR:frame_impl.cc(537)] frame 5-487D47676CC424AB45FA3DB3BA4065F6 connection timeout
-[22864:972:0510/205548.800:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[22864:19500:0510/205821.528:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
